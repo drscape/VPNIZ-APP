@@ -10,14 +10,14 @@
 <br>
 
 ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Release](https://img.shields.io/github/v/release/ims aasy/VPNIZ-APP?style=for-the-badge&label=Latest%20Version&color=2563EB)
-![Downloads](https://img.shields.io/github/downloads/ims aasy/VPNIZ-APP/total?style=for-the-badge&color=8B5CF6)
+![Release](https://img.shields.io/github/v/release/imsaasy/VPNIZ-APP?style=for-the-badge&label=Latest%20Version&color=2563EB)
+![Downloads](https://img.shields.io/github/downloads/imsaasy/VPNIZ-APP/total?style=for-the-badge&color=8B5CF6)
 
 <br>
 
 ### 📲 Download VPNIZ for Android
 
-[![Download APK](https://img.shields.io/badge/⬇_DOWNLOAD-ANDROID_APK-193d31?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ims aasy/VPNIZ-APP/releases/latest/download/VPNIZ.apk)
+[![Download APK](https://img.shields.io/badge/⬇_DOWNLOAD-ANDROID_APK-193d31?style=for-the-badge&logo=android&logoColor=white)](https://github.com/imsaasy/VPNIZ-APP/releases/latest/download/VPNIZ.apk)
 
 *Get the latest official Android release.*
 
