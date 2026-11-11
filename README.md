@@ -51,7 +51,7 @@ Enjoy a clean interface, convenient server selection, and effortless connection 
 
 All official APK versions are available here:
 
-**[View All Releases](https://github.com/ims aasy/VPNIZ-APP/releases)**
+**[View All Releases](https://github.com/imsaasy/VPNIZ-APP/releases)**
 
 ## 🔒 Source Code & Licensing
 
