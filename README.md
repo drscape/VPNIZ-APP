@@ -17,7 +17,7 @@
 
 ### 📲 Download VPNIZ for Android
 
-[![Download APK](https://img.shields.io/badge/⬇_DOWNLOAD-ANDROID_APK-193d31?style=for-the-badge&logo=android&logoColor=white)](https://github.com/imsaasy/VPNIZ-APP/releases/latest/download/VPNIZ.apk)
+[![Download APK](https://img.shields.io/badge/⬇_DOWNLOAD-ANDROID_APK-193d31?style=for-the-badge&logo=android&logoColor=white)]([https://github.com/imsaasy/VPNIZ-APP/releases/latest/download/VPNIZ.apk](https://github.com/imsaasy/VPNIZ-APP/releases/tag/v1.1.0))
 
 *Get the latest official Android release.*
 
